@@ -25,7 +25,7 @@ Faz um ano que descobri a arte da programação e, quanto mais aprendo, mais que
 Em breve estarei realizando um **curso superior em Ciência da Computação**, mas sei que é preciso dar um passo de cada vez.  
 Em junho, concluirei o Ensino Médio e já estou me preparando para o vestibular da **ETEC (São Paulo)**, onde pretendo cursar o **Técnico em Desenvolvimento de Sistemas**.  
 Como faz pouco tempo que voltei a estudar, acredito que ainda é cedo para tentar o ENEM, mas pretendo participar da próxima edição.  
-Tenho como grande sonho estudar Ciência da Computação na **Universidade Estadual de Maringá**, minha cidade do coração.
+Tenho como grande objetivo estudar Ciência da Computação na **Universidade Estadual de Maringá**, minha cidade do coração.
 
 ## Meus Principais Interesses
 
