@@ -44,7 +44,7 @@ Também estou começando a estudar **Java** (nível iniciante) e me aventurando 
 - Diotech (atualmente)
 
 ### Programação em Java
-- Senai (atualmente)  
+- Senai - 120h
 - Curso em Vídeo – 40h
 
 ### Lógica de Programação
